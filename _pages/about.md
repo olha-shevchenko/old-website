@@ -18,3 +18,7 @@ social: false # includes social icons at the bottom of the page
 Hi! I am a third year math grad student at UCLA. I work with [Pavel Galashin](https://www.math.ucla.edu/~galashin/) in Algebraic Combinatorics.
 
 I graduated from V.N.Karazin Kharkiv National University, where I was advised by Vladimir Kadets.
+
+**Office:** MS 3915B
+**Email:** shevchenko at ucla.edu
+**Pronouns:** she/her
