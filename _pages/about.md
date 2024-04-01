@@ -21,6 +21,6 @@ I graduated from V.N.Karazin Kharkiv National University, where I was advised by
 
 **Office:** MS 3915B
 
-**Email:** shevchenko at ucla.edu
+**Email:** shevchenko (at) ucla (dot) edu
 
 **Pronouns:** she/her
