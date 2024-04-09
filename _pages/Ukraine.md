@@ -8,9 +8,11 @@ nav_order: 3
 display_categories:
 horizontal: false
 ---
-On February 24th, 2024 my parents woke up from explosions. That was the beginning of Russia's full-scale war in Ukraine, that killed thousands of civilians. 
+On February 24th, 2024 my parents woke up from explosions. That was the beginning of Russia's full-scale war in Ukraine, that has killed thousands of civilians. And today, over 10 years after the beginning of the war and 2 years after the beginning of the full-scale war, Ukraine continues its fight for freedom. And we need your help! 
 
-Today, over 10 years after the beginning of the war and 2 years after the beginning of the full-scale war, Ukraine continues its fight for freedom. And we need your help! Please inform yourself, spread the word and donate. Here are a couple charity organizations that I trust:
+###Ways to help
+
+Please inform yourself, spread the word and donate. Here are a couple charity organizations that I trust:
 - [Pritula Foundation](https://prytulafoundation.org/en)
 - [Razom for Ukraine](https://www.razomforukraine.org/) (it is based in the US, so you can write it on your taxes!)
 - [Come back alive](https://savelife.in.ua/en/)
