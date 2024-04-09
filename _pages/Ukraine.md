@@ -1,7 +1,7 @@
 ---
 layout: page
 title: support Ukraine
-permalink: /projects/
+permalink: /ukraine/
 description: 
 nav: true
 nav_order: 3
