@@ -15,6 +15,8 @@ Today, over 10 years after the beginning of the war and 2 years after the beginn
 - [Razom for Ukraine](https://www.razomforukraine.org/) (it is based in the US, so you can write it on your taxes!)
 - [Come back alive](https://savelife.in.ua/en/)
 
+#Glory to Ukraine! Слава Україні!
+
 
 
 %Together with a team of volunteers in Saint Volodymyr Church, I am assembling medical kits that we send to the front line. You can help us purchase equipement ...
