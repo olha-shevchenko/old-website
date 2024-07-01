@@ -16,9 +16,8 @@ Today, over 10 years after the beginning of the war and 2 years after the beginn
 - [Razom for Ukraine](https://www.razomforukraine.org/) (it is based in the US, so you can write it on your taxes!)
 - [Come back alive](https://savelife.in.ua/en/)
 
-#Glory to Ukraine! Слава Україні!
+# Glory to Ukraine! Слава Україні!
 
-%Every day Russia shells residential areas, targets critical infrastructure and commits numerous war crimes. 
+%% Every day Russia shells residential areas, targets critical infrastructure and commits numerous war crimes. 
 
 
-%Together with a team of volunteers in Saint Volodymyr Church, I am assembling medical kits that we send to the front line. You can help us purchase equipement ...
